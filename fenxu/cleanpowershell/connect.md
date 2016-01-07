@@ -1,5 +1,5 @@
 # Connect and TFS information #
-
+t
 ## Our team ##
 Open Publishing is being developed by the Visual Studio China team. The team owns the MSDN and Technet platfomrs, as well as CAPS authoring tool, which is the replacement of DxStudio.
 While there are many people behind building the tool, we have 3 main contacts:
